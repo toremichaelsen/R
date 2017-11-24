@@ -1,0 +1,14 @@
+Package: dBdist
+Type: Package
+Title: Calculates distance to a sound
+Version: 0.1-1
+Author@R: c(person("Tore", "Christian", "Michaelsen", role = c("aut", "cre"),
+                     email = "tore.chr.michaelsen@gmail.com")
+Author: Tore Christian Michaelsen [aut, cre]
+Maintainer: Tore Christian Michaelsen <tore.chr.michaelsen@gmail.com>
+Description: A function that calclualate the distance to a sound.
+    Depends on a reference dB value made at a known distance.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
